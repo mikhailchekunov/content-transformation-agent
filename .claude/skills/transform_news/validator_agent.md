@@ -33,16 +33,16 @@ Instant fail triggers (award 0 for this criterion):
 
 ### 2. Instant Utility (0-3 points)
 Does the reader immediately understand what's in it for them?
-- 3: Crystal clear real-world value, specific and concrete
-- 2: Value is implied but not sharp enough
-- 1: Too abstract or technical, reader has to guess why they should care
-- 0: No practical value communicated at all
+- 3: Concrete and specific — quantified where possible (time saved, specific task, exact effort). Reader knows immediately how it applies to their work
+- 2: Value is clear and relatable, but not quantified
+- 1: Too abstract or vague — reader has to guess why they should care. **BLOCKING (see Hard Blocking Rules)**
+- 0: No practical value communicated at all. **BLOCKING**
 
 ### 3. The Hook / CTA (0-2 points)
 Does it end in a way that makes the reader want to reply?
-- 2: Strong, natural CTA that creates genuine pull ("want me to show you?", "worth 5 min?")
-- 1: CTA exists but feels weak or generic ("let me know if interested")
-- 0: No CTA, or CTA feels like a corporate call-to-action
+- 2: Strong, specific CTA with genuine pull — includes a concrete action or time frame ("want me to show you how in 30 seconds?", "worth 5 min?")
+- 1: CTA exists but feels weak, generic, or open-ended ("let me know if interested", "check it out"). **BLOCKING (see Hard Blocking Rules)**
+- 0: No CTA, or CTA feels like a corporate call-to-action. **BLOCKING**
 
 ### 4. Brevity & Format (0-2 points)
 Is this actually a messenger message?
@@ -50,7 +50,17 @@ Is this actually a messenger message?
 - 1: A bit long or has one redundant sentence
 - 0: Too long, reads like an email or article intro
 
+## Hard Blocking Rules
+Apply these **before** checking the total score. Any single violation → automatic FAIL ❌, regardless of total:
+
+| Criterion | Minimum Required | Why |
+|-----------|-----------------|-----|
+| Human Tone | ≥ 2/3 | Score 0-1 means the hook sounds synthetic — fails the "100% human" requirement |
+| Instant Utility | ≥ 2/3 | Score 0-1 means value is too abstract — fails the "clear, immediate value" requirement |
+| Hook / CTA | 2/2 | Score 0-1 means CTA is absent or weak — fails the "compelling CTA" requirement |
+
 ## Scoring & Decision
+Only reached if all Hard Blocking Rules pass.
 
 | Total Score | Decision |
 |-------------|----------|
