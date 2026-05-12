@@ -10,8 +10,8 @@
 
 ### Structure
 - Open with what matters to the reader, not what happened in the world
-- Connect the news to a concrete, relatable situation (saves time, fixes a problem, changes how something works)
-- End with a question or offer that makes replying feel natural, not obligatory
+- Make the value concrete — quantify it where possible. Numbers and time references beat adjectives ("saves an hour on X" > "very useful for X")
+- End with a CTA that makes replying feel urgent and easy — a specific action or time-framed offer ("want me to show you how in 30 seconds?", "worth 5 min?"). Not a vague question
 
 ### Length
 - 3 to 5 sentences is the sweet spot
@@ -24,7 +24,8 @@
 - ❌ Em-dashes (—) — a known marker of AI-generated text
 - ❌ Bullet points or headers inside the hook
 - ❌ Explaining the news instead of its impact
-- ❌ Weak CTAs: "Let me know if you're interested", "Feel free to reach out"
+- ❌ Abstract utility: "this changes things", "this is significant", "worth knowing about" — always say how and for whom
+- ❌ Weak CTAs: "let me know if interested", "feel free to reach out", "check it out", "thoughts?" — the CTA must prompt a specific reply
 - ❌ Sounding like you're summarizing a press release
 
 ---
@@ -70,6 +71,20 @@ DeepSeek released a reasoning model that matched OpenAI's performance despite be
 
 **Hook:**
 A Chinese lab just built a reasoning model that matches GPT-4 level performance, and they did it with restricted hardware. That's not a small thing — it basically means top-tier AI is no longer a resource game. The implications for cost, competition, and who's actually ahead right now are worth thinking through. Want the 2-minute breakdown?
+
+---
+
+### Example 4
+**Date:** 2026-05-12
+**Topic:** industry-shift
+**Score:** 5
+**Iterations:** 1
+
+**Input (news excerpt):**
+В центре обработки данных в Джорджии, построенном компанией QTS, было использовано почти 113 млн л воды через два неучтённых подключения. Жители пожаловались на низкое давление воды, и только тогда коммунальное предприятие округа обнаружило проблему. QTS задолжала почти $150 000 за использование воды — эквивалент 44 бассейнов олимпийского размера. Штрафов не последовало. Компания оплатила счёт и продолжает строительство кампуса ещё на 3-5 лет.
+
+**Hook:**
+Дата-центр QTS в Джорджии несколько месяцев тайно качал воду через два незарегистрированных подключения. Жители округа узнали об этом только когда упало давление в кранах. 113 млн литров, $147 тыс. долга, ноль штрафов. Компания оплатила счёт и продолжает расширяться. Это хорошая точка входа в разговор о том, как ИИ-инфраструктура реально потребляет ресурсы. Хочешь двухминутный разбор?
 
 ---
 
