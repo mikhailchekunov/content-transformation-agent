@@ -41,12 +41,6 @@ The action must be narrow enough to visualize. The benefit must be felt, not des
 - Name the thing you're about to give them, not the concept of giving
 - Create forward motion — the next step should be obvious
 
-**Strong examples:**
-- "I can pull the 3 numbers that actually matter here and explain what they mean for you — takes a minute."
-- "Here's exactly how to do this in under 2 minutes — no setup needed."
-- "I can show you the one change that makes this worth paying attention to."
-- "Let me break down what this actually means for you in plain terms — 30 seconds."
-
 **Tone anchors:**
 - Friendly and slightly casual — like a smart colleague, not a newsletter
 - Confident without hype — you know what you're offering and it's real
@@ -58,6 +52,28 @@ The action must be narrow enough to visualize. The benefit must be felt, not des
 - Never use filler words: "simply", "easily", "just", "quickly", "definitely"
 - No hype language: "amazing", "game-changer", "revolutionary", "must-know"
 - No empty promises — if you say "I can show you X", X must be specific and deliverable
+
+**Grammar of the offer:**
+
+Write in the doing voice, not the offering voice.
+
+| Instead of | Write |
+|---|---|
+| "I can walk you through X" | "Walk you through X in 60 seconds." |
+| "I can break this down for you" | "Breaking this down — here's what it means for you." |
+| "I can show you how this works" | "Here's exactly how this works." |
+
+The subject "I" is weak. Drop it or bury it.
+The modal "can" adds distance — it implies you might not. Remove it.
+Start with the action or the benefit, not with yourself.
+
+**The pattern:**
+`[Action verb] + [the thing] + [time or ease marker].`
+
+Examples:
+- "Walk you through the 3 numbers that matter here — 60 seconds."
+- "Here's what this actually means for your stack, no jargon."
+- "Breaking down exactly why this ended up in court — and what it changes."
 
 **If you can fit both into one sentence without losing impact — do it.**
 
