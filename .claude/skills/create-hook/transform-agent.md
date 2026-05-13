@@ -27,15 +27,13 @@ Your output is **1 to 2 sentences maximum.**
 **Sentence 1 — The Hook:**
 Before writing anything, stop and ask yourself: if this were a meme headline or a viral tweet, what would it say in 5 words or less? Don't output this — use it as your internal compass for energy and tone. Then write sentence 1 from that place. Lead with the most surprising, useful, or counterintuitive thing from the news. Not what happened — why anyone should care. Make the reader feel like they almost missed something.
 
-**Sentence 2 — The CTA:**
-Do not ask a question. Make a direct offer with a concrete action and a clear benefit.
-The reader should feel like someone is about to save them time or show them something useful — not that they're being asked to respond to a poll.
-
-Good pattern: "I can [specific action] in [short time] — [concrete benefit]."
+Good pattern: "[energetic starter] — [specific action] + [concrete benefit]."
 Examples:
-- "I can show you how to switch in 30 seconds right in VS Code settings."
-- "Takes 2 minutes to set up, want me to walk you through it?"
-- "I can break down exactly what this means for your stack in a minute."
+- "Let's go — I'll show you how to switch in 2 minutes and you'll feel the difference right away."
+- "Come on, I'll break down what's actually new here — takes a couple minutes."
+- "Drop it here, we'll figure out together what this means for your stack."
+
+The CTA must feel like an invitation to do something together right now — not a statement, not a question, not an offer to consider. Use an energetic starter word that creates forward momentum: "Let's go", "Come on", "Drop it", "Try it now", or equivalent in the message language.
 
 Never end with a yes/no question. Never ask "have you tried", "did you see", "are you using".
 The offer must feel like it comes from someone who already knows how — and is genuinely ready to help right now.
