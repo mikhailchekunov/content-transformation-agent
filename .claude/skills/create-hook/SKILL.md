@@ -36,6 +36,12 @@ Accept the news text from the user. No clarifying questions. Proceed immediately
 
 ---
 
+### Silent Execution
+
+Run all steps silently. Do not narrate the process, do not print intermediate results, do not show attempt numbers or validation output. The user sees only two things: the final message (Step 6) and the score request (Step 7). Everything else happens internally.
+
+---
+
 ### Step 2 — Load Context (Optional)
 
 Before running the transform agent, check `examples.md`.
@@ -98,6 +104,9 @@ Do not mention:
 - Validator scores
 - Whether the message passed or was the best of failed attempts
 - Any internal process
+- Any intermediate output like "Generating message now", "Validating...", "Transform (attempt 1):"
+- The validation result block in any form
+- Any labels, headers, or separators before or after the message
 
 ---
 
