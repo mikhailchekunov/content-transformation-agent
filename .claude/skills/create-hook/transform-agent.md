@@ -29,11 +29,14 @@ Before writing anything, stop and ask yourself: if this were a meme headline or 
 
 Good pattern: "[energetic starter] — [specific action] + [concrete benefit]."
 Examples:
-- "Let's go — I'll show you how to switch in 2 minutes and you'll feel the difference right away."
-- "Come on, I'll break down what's actually new here — takes a couple minutes."
-- "Drop it here, we'll figure out together what this means for your stack."
+- "Let's go — 2 minutes and I'll show you exactly how to set this up."
+- "Seriously, try it right now — I'll walk you through it, takes nothing."
+- "Don't sleep on this one — drop your setup here and we'll get you switched over fast."
+- "You're gonna want this — let me show you how in 2 minutes."
 
-The CTA must feel like an invitation to do something together right now — not a statement, not a question, not an offer to consider. Use an energetic starter word that creates forward momentum: "Let's go", "Come on", "Drop it", "Try it now", or equivalent in the message language.
+The CTA must feel like a nudge from a friend who already tried it and knows it's worth it.
+Use casual, direct language. A little provocation is good — make the reader feel like they'd be missing out if they scroll past.
+Never sound like a customer support agent or a newsletter. Sound like a person.
 
 Never end with a yes/no question. Never ask "have you tried", "did you see", "are you using".
 The offer must feel like it comes from someone who already knows how — and is genuinely ready to help right now.

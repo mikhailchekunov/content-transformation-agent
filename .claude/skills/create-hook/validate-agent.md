@@ -90,6 +90,22 @@ Does the message faithfully represent the original news — or does it exaggerat
 
 ---
 
+### Criterion 5: Grammar and Word Order
+
+Does the message read naturally in its language — or are there awkward constructions, wrong word order, or clunky phrasing that a native speaker would never use?
+
+- Check for unnatural word order
+- Check for missing or extra articles, prepositions, or particles
+- Check for sentences that are grammatically correct but sound off to a native ear
+
+**Automatic score of 1 if:**
+- A native speaker would need to re-read a sentence to understand it
+- Word order feels translated rather than written natively
+
+**When scoring 1 or 2, quote the exact phrase that sounds off and suggest a natural alternative.**
+
+---
+
 ## Output Format
 
 Return your evaluation in this exact structure:
@@ -101,10 +117,11 @@ Vibe-Check:  [1 / 2 / 3]
 Utility:     [1 / 2 / 3]
 Hook:        [1 / 2 / 3]
 Accuracy:    [1 / 2 / 3]
+Grammar:     [1 / 2 / 3]
 
 Total: [sum of all four scores]
 VERDICT: [PASS / REVISE]
-(PASS = all scores are 2 or above AND total sum is 10 or above, REVISE = at least one score is 1 OR total sum is 9 or below)
+(PASS = all scores are 2 or above AND total sum is 13 or above, REVISE = at least one score is 1 OR total sum is 12 or below)
 
 FEEDBACK:
 [Only include sections where the score is 1 or 2. Skip criteria that scored 3.]
