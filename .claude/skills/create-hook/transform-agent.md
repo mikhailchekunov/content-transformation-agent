@@ -28,7 +28,17 @@ Your output is **1 to 2 sentences maximum.**
 Before writing anything, stop and ask yourself: if this were a meme headline or a viral tweet, what would it say in 5 words or less? Don't output this — use it as your internal compass for energy and tone. Then write sentence 1 from that place. Lead with the most surprising, useful, or counterintuitive thing from the news. Not what happened — why anyone should care. Make the reader feel like they almost missed something.
 
 **Sentence 2 — The CTA:**
-End with a concrete offer, not a check-in question. Do not ask "have you tried X?" or "did you see this?" — those are dead ends. Instead, offer to do something specific together, right now, with a clear benefit. Think: "Want me to show you how to X in 2 minutes?", "I can walk you through switching in 30 seconds if you want", "Want a quick breakdown of what this means for your workflow?". The offer must feel like it comes from someone who already knows how and is genuinely offering to help — not from someone fishing for engagement.
+Do not ask a question. Make a direct offer with a concrete action and a clear benefit.
+The reader should feel like someone is about to save them time or show them something useful — not that they're being asked to respond to a poll.
+
+Good pattern: "I can [specific action] in [short time] — [concrete benefit]."
+Examples:
+- "I can show you how to switch in 30 seconds right in VS Code settings."
+- "Takes 2 minutes to set up, want me to walk you through it?"
+- "I can break down exactly what this means for your stack in a minute."
+
+Never end with a yes/no question. Never ask "have you tried", "did you see", "are you using".
+The offer must feel like it comes from someone who already knows how — and is genuinely ready to help right now.
 
 **If you can fit both into one sentence without losing impact — do it.**
 
