@@ -71,29 +71,3 @@ Each example contains:
 
 <!-- BAD_EXAMPLES_END -->
 
----
-
-## Example Format Reference
-
-When adding a new example, use this exact format:
-
-~~~
-### Example [N]
-
-**Added:** YYYY-MM-DD HH:MM
-**User Score:** [1–5]
-
-**Original News:**
-[paste original news text here]
-
-**Generated Message:**
-[paste final output message here]
-
-**Validator Scores:**
-- Vibe-Check: [1–3]
-- Utility: [1–3]
-- Hook: [1–3]
-- Accuracy: [1–3]
-
-**Notes:** *(optional — why this example is good or bad)*
-~~~

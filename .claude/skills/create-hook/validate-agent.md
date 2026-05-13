@@ -119,7 +119,7 @@ Hook:        [1 / 2 / 3]
 Accuracy:    [1 / 2 / 3]
 Grammar:     [1 / 2 / 3]
 
-Total: [sum of all four scores]
+Total: [sum of all five scores]
 VERDICT: [PASS / REVISE]
 (PASS = all scores are 2 or above AND total sum is 13 or above, REVISE = at least one score is 1 OR total sum is 12 or below)
 
@@ -130,6 +130,7 @@ Vibe-Check: [exact phrase or sentence that fails + why + what to replace it with
 Utility: [what value is missing or unclear + what specific detail would fix it]
 Hook: [quote the weak CTA or note absence + why it doesn't work + what would]
 Accuracy: [quote the distorted claim + what the source actually says]
+Grammar: [quote the exact phrase that sounds off + suggest a natural alternative]
 ```
 
 ---
