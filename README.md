@@ -2,67 +2,80 @@
 
 A Claude Code skill that turns dry technical news into short, human-sounding messenger hooks that make people want to reply.
 
-## What It Does
+## Skills
 
-Takes a raw news excerpt (AI, software, hardware, industry) and produces a 3-5 sentence message that sounds like a sharp colleague texting you something useful — not a newsletter, not a bot.
+### `/create-hook` — Current
 
-## Architecture
+Takes a raw tech news text and produces a 1–2 sentence message that sounds like a sharp colleague dropping something useful in a group chat — not a newsletter, not a bot.
 
-The skill lives in `.claude/skills/transform_news/` and consists of four files:
+#### Architecture
+
+The skill lives in `.claude/skills/create-hook/` and consists of four files:
 
 ```
-SKILL.md                ← pipeline entrypoint and orchestration logic
-transform_agent.md      ← writes the hook from the raw news
-validator_agent.md      ← independently scores and approves the hook
-rules_and_examples.md   ← self-growing style handbook
+SKILL.md              ← pipeline entrypoint and orchestration logic
+transform-agent.md    ← writes the hook from the raw news
+validate-agent.md     ← independently scores and approves the hook
+examples.md           ← self-growing library of good and bad examples
 ```
 
-### Transform Agent
+#### Transform Agent
 
-Reads `rules_and_examples.md` before writing to align with current style rules and learn from past rated examples. Produces a messenger hook that meets three hard requirements:
+Reads `examples.md` before writing to calibrate tone and learn from past rated messages. Produces a messenger hook with a strict structure:
 
-- **100% human tone** — no AI markers, no filler words, no synthetic phrasing
-- **Instant utility** — concrete and specific value, quantified where possible (time saved, task automated, specific impact)
-- **Compelling CTA** — a specific action or time-framed offer that makes replying feel natural ("want me to show you how in 30 seconds?")
+- **Sentence 1 — The Hook:** leads with the most surprising or counterintuitive thing from the news. Not what happened — why anyone should care.
+- **Sentence 2 — The CTA:** a specific, actionable offer. The reader should feel like they're about to receive something useful, not be asked a question.
 
-### Validator Agent
+Hard rules for the message:
+- No yes/no questions, no "have you tried…?" endings
+- No filler: "simply", "easily", "just", "quickly"
+- No hype: "game-changing", "revolutionary", "cutting-edge"
+- No em dash, no rhetorical fragments
+- No passive voice or press-release energy
+- Language matches the input — Russian news → Russian hook
 
-An independent critic that sees only the hook and the original news — it has no knowledge of who wrote it or how many attempts were made. Scores across four criteria (max 10 points):
+#### Validator Agent
+
+An independent critic that sees only the hook and the original news. Scores across five criteria (max 15 points):
 
 | Criterion | Points |
 |-----------|--------|
-| Human Tone | 0-3 |
-| Instant Utility | 0-3 |
-| Hook / CTA | 0-2 |
-| Brevity & Format | 0-2 |
+| Vibe-Check (Human Tone) | 1–3 |
+| Utility (Clear Value) | 1–3 |
+| Hook / CTA | 1–3 |
+| Accuracy | 1–3 |
+| Grammar & Word Order | 1–3 |
 
-**Hard Blocking Rules** are applied before the score check. Any single violation → automatic FAIL, regardless of total:
-- Human Tone < 2 (sounds synthetic)
-- Instant Utility < 2 (value is too abstract)
-- Hook / CTA < 2 (CTA is weak or absent)
+**Threshold for PASS:** all scores ≥ 2 AND total ≥ 13. Any single score of 1 → automatic REVISE.
 
-Threshold for PASS: 7+/10, with all blocking rules satisfied.
+#### Iteration Loop
 
-### Iteration Loop
+If the hook fails, the validator's specific feedback is passed back to the transform agent for a targeted rewrite. Maximum 3 attempts. If all fail, the best-scoring draft is output.
 
-If the hook fails, the validator's specific feedback is passed back to the transform agent for a rewrite. Maximum 3 attempts. If all fail, the best-scoring draft is output with a warning label.
+#### Self-Growing Examples Library
 
-### Self-Growing Handbook
-
-After each run, the user rates the hook 1-5. High and low scores are saved as examples:
+After each run, the user rates the hook 1–5. High and low scores are saved to `examples.md`:
 
 - **Rating 5** → added to Good Examples
-- **Rating 1-2** → added to Bad Examples
-- **Rating 3-4** → no action
+- **Rating 1–2** → added to Bad Examples
+- **Rating 3–4** → no action
 
-Each section holds a maximum of 10 entries. When the 11th is added, the oldest is dropped. This keeps the handbook compact and the examples fresh — the more the skill is used, the better it gets.
+Each section holds a maximum of 15 entries. When the 16th is added, the oldest is dropped.
 
-## Usage
+#### Usage
 
 ```
-/transform_news
+/create-hook
 
-NEWS: <paste raw technical news here>
+<paste raw tech news here>
 ```
 
-The skill matches the language of the input — Russian news produces a Russian hook, English news produces an English hook.
+---
+
+### `/transform_news` — Deprecated
+
+> **Deprecated.** Use `/create-hook` instead.
+
+The original version of this skill. Still functional but no longer maintained. Superseded by `/create-hook`, which has a more precise transform agent, a 5-criterion validator (vs. 4), a larger examples library (15 entries vs. 10), and cleaner pipeline execution.
+
+The skill lives in `.claude/skills/transform_news/`.
