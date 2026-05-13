@@ -1,5 +1,5 @@
 ---
-name: clickbait-message-transformer
+name: create-hook
 description: Transforms tech news text into a short, human-sounding messenger message designed to hook readers and drive engagement.
 when_to_use: Use when the user provides a tech news article or text and wants a punchy, clickbait-style message for messengers like Telegram or WhatsApp.
 allowed_tools:
