@@ -68,7 +68,7 @@ Does the reader instantly understand what's in it for them?
 
 ### Criterion 3: Hook (Call to Action)
 
-Does the message end with something that makes the reader want to reply or engage?
+A CTA that asks "have you tried X?" or "did you already do X?" automatically scores 1. A good CTA offers a specific action with a concrete benefit — the reader should feel like they're being offered help, not asked a survey question.
 
 - Is there a question, an invitation, or a pull to interact?
 - Does it feel natural — or does it feel bolted on?
