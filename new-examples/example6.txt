@@ -12,7 +12,6 @@ Among billions of technical events it recorded were what users would click and l
 In 2022, it says, the company also began "leveraging the mountains of data it quietly extracted from the children and families it kept fixated on their screen" - sharing this with commercial data brokers to help raise billions of dollars in revenue.
 "In short, Netflix sold subscriptions to its programming as an escape from Big Tech surveillance: pay monthly, avoid tracking," the lawsuit states.
 "Texans trusted that bargain. Netflix broke it - constructing the very data-collection system subscribers paid to escape."
-Design scrutiny
 Attorney General Paxton's office said it believed the company had violated the state's laws, namely the Texas Deceptive Trade Practices Act which forbids "false, deceptive, or misleading acts and practices in the course of trade and commerce".
 The attorney general can pursue action including penalties against those found to have engaged in such activity.
 In this case, it wants the court to order Netflix to delete any data "deceptively collected from Texans", cease processing their data for targeted advertising and to turn auto-play off by default for children's profiles.
