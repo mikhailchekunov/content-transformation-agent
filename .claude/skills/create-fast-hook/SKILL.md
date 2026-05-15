@@ -12,7 +12,7 @@ allowed_tools: read_file, write_file, edit_file
 2. Think about what value the user can get from this message. What might genuinely interest them?
 3. Write a short, lively message that captures maximum attention and interest in one sentence.
 4. The final message must be in the same language as the source text.
-5. The message should sound natural, like it was written by your best friend, not an AI bot. Make sure there are no signs of AI-generated text. No em dashes allowed.
+5. The message should sound natural, like it was written by your best friend, not an AI bot. Make sure there are no signs of AI-generated text. Do not use em dash, en dash, or hyphen.
 6. You can look at the examples below, but then think for yourself and add creativity to make it genuinely interesting.
 7. The message must end with a call to action so the reader understands why it matters to them and wants to open and read more.
 
