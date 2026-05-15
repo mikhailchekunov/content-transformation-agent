@@ -1,0 +1,63 @@
+META’S DECISION TO track employee keystrokes and mouse data is causing an uproar within the company. “Selfishly, I don't want my screen scraped because it feels like an invasion of my privacy,” wrote an engineer in an internal post seen by nearly 20,000 coworkers this week. “But zooming out, I don't want to live in a world where humans—employees or otherwise—are exploited for their training data.”
+
+The message aimed to rally support for a petition circulating inside the company since last Thursday that demands an end to what Meta calls the Model Capability Initiative. It’s a piece of mandatory software that Meta began installing on the laptops of US employees last month. The tool records employees’ screens when using certain apps with the goal of collecting “real examples of how people actually use” computers, including “mouse movements, clicking buttons, and navigating dropdown menus,” according to Reuters. Meta has yet to say whether the initial data is paying off.
+
+Don't just keep up. Get ahead—with our biggest stories, handpicked for you each day.
+
+
+SIGN UP
+By signing up, you agree to our user agreement (including class action waiver and arbitration provisions), and acknowledge our privacy policy.
+“I'm mixed on Al. On one hand, I really enjoy using it to write software. On the other hand, I'm really nervous about its impact on the world,” the engineer wrote in an internal forum for coders. “And what kind of norms are we establishing about how the technology is used, and how people are going to be treated?”
+
+FEATURED VIDEO
+
+
+Musk v. Altman Could Completely Shake Up The Dynamics Of The AI Race
+
+The petition, also seen by WIRED, states that “it should not be the norm that companies of any size are permitted to exploit their employees by nonconsensually extracting their data for the purposes of Al training.”
+
+Got a Tip?
+Are you a current or former Meta employee who wants to talk about what's happening? We'd like to hear from you. Using a nonwork phone or computer, contact the reporter securely on Signal at peard33.24.
+In the US, employers generally have wide latitude to monitor workers’ devices for security, training, evaluation, and safety purposes. But using these tools to build datasets that instruct AI systems on navigating computers without human supervision appears to be a new tactic—and one that doesn’t sit right with many Meta workers. Over the past few years, several companies have jumped into the race to develop agentic AI models. But when gathering data, they have typically tapped volunteers, sometimes paid, who are willing to have their computer activity recorded.
+
+Meta’s decision to move forward with its tracking tool despite weeks of protest from employees has become one of the leading reasons for what 16 current and former employees recently described to WIRED as record-low morale. It’s also the leading driver of an employee unionization effort at Meta’s UK offices.
+
+“The workplace surveillance and training AI models is the number one thing,” says Eleanor Payne, a representative of United Tech and Allied Workers, which is helping organize Meta employees. She declined to specify the number of employees seeking to form a labor union but called it “significant” and unprecedented.
+
+While only US employees are currently subjected to tracking, UK employees are concerned for their colleagues and the potential for expansion of the program. “I think of it pretty much as a breakdown of trust,” Payne says. New laws that eased unionization in the UK have encouraged employees about the chances of success, she adds.
+
+In Meta offices in California and New York, workers have been posting flyers in cafeterias and other communal areas pointing colleagues to the petition. Two employees, speaking on the condition of anonymity because they were not authorized to speak to the media, say the company has removed some posters, with those on bathroom walls seemingly staying up longer.
+
+MOST POPULAR
+Meta’s New Reality: Record High Profits. Record Low Morale
+ARTIFICIAL INTELLIGENCE
+Meta’s New Reality: Record High Profits. Record Low Morale
+BY STEVEN LEVY
+Meet the Sad Wives of AI
+DIGITAL CULTURE
+Meet the Sad Wives of AI
+BY ALESSANDRA RAM
+This Is the Real Swatch x Audemars Piguet Royal Pop Collaboration
+GEAR
+This Is the Real Swatch x Audemars Piguet Royal Pop Collaboration
+BY JEREMY WHITE
+Overworked AI Agents Turn Marxist, Researchers Find
+ARTIFICIAL INTELLIGENCE
+Overworked AI Agents Turn Marxist, Researchers Find
+BY WILL KNIGHT
+Meta declined to comment on the allegation.
+
+Petition organizers have called on Meta to respect their legal right “to discuss, organize, and advocate for better working conditions.” So far, organizers have declined to comment on the number of signatories and whether they may pursue other legal or regulatory actions to push back on the tracking program.
+
+The engineer’s internal post this week chronicled what they believe to be a degradation in Meta’s culture over the past 11 years, with much of the shift happening in the past five. “Layoffs, budget cuts, years of efficiency and intensity—all of it contributed to a growing sense of dread,” the employee wrote. They described growing apathetic about their work and workplace, until the rollout of the tracking software stunned them.
+
+“MCI is a microcosm for the Al movement,” the engineer added. “Yes, it's just a small turn of the temperature knob, but it's representative of the types of systems that people will be compelled to build.”
+
+They addressed skepticism and fear about the petition drive by underscoring the value of collective action: “Your voice matters. Moments like this are why I was drawn to Facebook in the first place.”
+
+Some workers reluctant to sign the petition are quietly staging their own form of protest by delaying installation of the screen recording tool, sources say. It means dealing with a nagging notification. How long Meta will accept the maneuver is unclear to employees. But after layoffs hit next week, the company will have 10 percent fewer people to try and wrangle.
+
+----
+
+Meta secretly installed screen-recording software on their own engineers' laptops to harvest training data for AI, no opt-in, no asking. Now 20,000 employees are signing petitions and starting unions. Read
+   this before your company gets the same idea.

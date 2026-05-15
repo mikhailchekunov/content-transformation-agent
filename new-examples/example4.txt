@@ -1,0 +1,26 @@
+Waymo is recalling thousands of its self-driving cars in the US over a software issue that could allow vehicles to drive into flooded roads.
+According to a letter posted on the National Highway Traffic Safety Administration (NHTSA) website on Tuesday, the voluntary recall affects nearly 3,800 robotaxis that use the company's fifth and sixth-generation automated driving systems.
+It follows an incident on 20 April in San Antonio, Texas, where an empty Waymo vehicle entered a flooded road and was swept into a creek.
+The company, which hopes to operate a robotaxi service in London by September, told the BBC safety was its "primary priority" and it was working on "additional software safeguards".
+A spokesperson from Waymo, which is owned by Google's parent company Alphabet, added "mitigations" had already been put in place, such as "limiting access to areas where flash flooding might occur".
+Waymo's San Antonio service also remains temporarily suspended following the incident, though the company said it will resume public rides after the necessary software fix had been rolled out.
+Waymo says it now provides more than 500,000 trips per week across multiple US cities including San Francisco, Austin and Miami.
+Jack Stilgoe, professor of science and technology policy at University College London, told the BBC that all self-driving car systems had limits on when and where they could operate safely.
+"We often see these limits only when something goes wrong," he said.
+Getty Images An overhead view of a fleet of white Waymo vehicles Getty Images
+Waymo says it now provides more than 500,000 trips per week across multiple US cities
+As more autonomous vehicles are deployed, Prof Stilgoe said, more such problems are likely to emerge.
+"That isn't to say the technology won't be hugely beneficial," he added.
+"But policymakers would prefer to know about these things in advance rather than discovering them in hindsight."
+Over the past year several incidents with different driverless car firms have raised concerns over robotaxi safety.
+In December 2025, a large power outage in San Francisco led Waymo taxis to stop working around the city, causing significant disruption.
+And in April, a mass Apollo Go robotaxi outage in the Chinese city of Wuhan caused at least a hundred self-driving cars to stop mid-traffic.
+
+----------------------------
+
+A Waymo robotaxi drove itself into a flooded road and got swept into a creek, so now 3,800 self-driving cars are being recalled. Worth reading before you ever step into one.
+
+---
+
+A Waymo robotaxi drove itself into a flooded creek with no one inside because the software couldn't read the weather. Now 3,800 cars are being recalled. Here's what that tells us about where self-driving
+  tech actually stands.

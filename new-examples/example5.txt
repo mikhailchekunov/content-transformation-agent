@@ -1,0 +1,30 @@
+WhatsApp has introduced private chats with its AI chatbot which not even the tech company will be able to read in a new "incognito" mode.
+It means neither the user nor the AI's responses will be monitored if the feature is activated, and past conversations will disappear from the chat for the user.
+Will Cathcart, the head of WhatsApp, said he felt people wanted to have private conversations with AI on sensitive subjects including health, relationships and finances and didn't want them to be accessible.
+But a cyber security expert has told the BBC this could lead to a lack of accountability for WhatsApp if things go wrong, as they would have no access to chat history.
+WhatsApp is owned by Meta, which also owns Instagram, Facebook and Messenger.
+When Meta AI was added to WhatsApp last year, it was criticised by some users angry at not being able to turn it off.
+But in May 2025, Meta boss Mark Zuckerberg said Meta AI had reached a billion users across its apps.
+"We've heard from a lot of people that they feel some discomfort about sharing [personal] information with the company, yet they want the answers," Cathcart said of the latest announcement.
+Currently most AI companies do store some data from chatbot use, and outside of businesses who pay premiums for enterprise accounts, that data can also be used to train future models of the product.
+Zuckerberg described it as the "first major AI product where there is no log of your conversations stored on servers".
+The technology behind WhatsApp's incognito mode is not the same as the end-to-end encryption the platform uses to protect other messages, but it is "the equivalent," Cathcart added.
+Prof Alan Woodward, a cyber security expert at Surrey University, said there was a low risk of compromising WhatsApp's existing security by introducing a second system.
+However there are concerns about how incognito mode could hide AI malfunction or abuse.
+A number of AI companies, including OpenAI and Google, have been the subject of wrongful death lawsuits.
+Woodward said there was a risk of a lack of accountability for the AI's responses.
+"Personally I think what you ask an AI should remain private as some people ask it very personal matters - but you are placing a great deal of trust in the AI not to lead users astray," he told the BBC.
+The concern is that disappearing messages which cannot be retrieved by the user or by Meta would mean it would be impossible to find evidence whether somebody's chats led to harm, death or suicide.
+Cathcart said incognito mode would initially only process text rather than images, and Meta AI's guardrails would err on the side of caution in refusing to answer requests which could be interpreted as harmful or illegal.
+WhatsApp has blocked other AI chatbots from being accessible from its systems, so the only AI that its billions of users can interact with on the platform is Meta's own.
+"Meta is on track to shell out $145bn [£107bn] on AI infrastructure in 2026, and investors want to see a lot more bang for those mega bucks," said Susannah Streeter from investment platform Wealth Club.
+"Investors are nervous about the scale of the spending, but Meta is counting on the push leading to significant returns. It's building out AI infrastructure to supercharge its platforms and if it works it could make its advertising and commerce empire even more dominant."
+
+--------------------------------
+
+WhatsApp is launching AI chats that even Meta can't read, with no server logs kept at all. Sounds great until you think about what happens when something goes wrong and there's zero record of it.
+
+---
+
+WhatsApp just launched AI chats that even Meta can't read, no logs, no history, nothing. Sounds great until you realize there's also no record if the AI gives someone dangerous advice. Here's the real
+  tradeoff.

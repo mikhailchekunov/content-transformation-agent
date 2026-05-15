@@ -1,0 +1,52 @@
+New York —  AI probably won’t take your job anytime soon. At least not all of it.
+Concerns about artificial intelligence replacing human workers have simmered over the past year as companies slash headcounts, AI models grow more capable of office work and businesses integrate AI more deeply into their operations. AI was the top reason companies cited for job cuts in April for the second month in a row, the executive outplacement firm Challenger, Gray & Christmas said Thursday.
+
+“The anxiety around AI at work is real—from fears of job loss to the pressure to keep up with rapidly evolving technology,” Microsoft wrote in a report about how AI is changing jobs released last week.
+
+But the reality of AI in the workplace isn’t so black-and-white, experts say. Companies are using AI to automate certain parts of jobs rather than replace entire positions.
+
+Business leaders are figuring out what AI can and can’t do, recalibrating existing jobs around responsibilities that can only be done by a human. And thousands of jobs have been cut in the process, with web infrastructure company Cloudflare and cryptocurrency firm Coinbase among the latest to announce staff cuts.
+
+“It’s very few jobs that are actually entirely automated away by the current AI and robotics technology that’s out there,” said Alexis Krivkovich, a senior partner at McKinsey & Company who helps lead the company’s People and Organizational Performance Practice.
+
+AI is technically capable of automating 57% of work-related activities, Krivkovich said, citing McKinsey research. But that percentage is spread across “pieces and parts” of various jobs and responsibilities across an organization.
+
+Nitin Seth, the cofounder of digital services and consulting firm Incedo, claims his company helps clients boost productivity using AI by at least 20% to 25% without reducing staff at the same scale. That’s because AI only handles certain parts of different roles.
+
+“You can’t take one quarter of Lisa, one quarter of Jessica, one quarter of Nitin and one quarter of somebody else and make it one person,” Seth said.
+
+The fear that AI will take jobs has disrupted the tech industry the most. Software engineers have increasingly embraced the tech to help write code, with 90% of tech workers using AI in their jobs, according to a September survey from Google’s research arm. Stack Overflow, a popular question-and-answer forum for developers, found that 84% of respondents either use AI tools in the software development process or plan to.
+
+But a software engineer’s job involves much more than just coding: It entails reviewing the code, designing systems, troubleshooting problems and deciding what to build. Companies may adjust job titles to reflect that, says Boris Cherny, head of Claude Code at Anthropic.
+
+“I think by the end of the year, we’re going to start to see the idea of software engineering go away,” he told CNN in March. He thinks the term “builder” might be a more fitting title as the job expands, and writing lines of code becomes a smaller part of it.
+
+Sujata Sridharan, who most recently worked at the fintech firm Bolt and has spent roughly a decade as a software engineer, is one of the many engineers living through that transition.
+
+Although she uses AI, her work still requires problem solving and critical thinking, she told CNN over email. The difference is that the execution now involves a mix of writing code and prompting AI.
+
+“With AI being used more and more, the skills that are actually required on the job have shifted to, are you able to recognize what is the right code quality? Are you able to problem solve?” she said.
+
+That’s not to say AI isn’t contributing to job losses; it just likely isn’t taking over full roles. AI has been cited in more than 49,000 job cuts so far this year, the report from Challenger, Gray & Christmas said.
+
+Block, the financial tech company behind Square and Cash App, laid off 40% of its staff this year because AI has allowed it to do more with smaller teams. Coinbase is reducing its staff by about 14% in part because AI is enabling engineers to “ship in days what used to take a team weeks,” its CEO said Tuesday.
+
+And Cloudflare said the way the company operates has completely changed, adding that its AI use has increased by more than 600% in the last three months alone.
+
+It’s possible there will be “some job disruption on the horizon,” according to Dan Priest, PwC’s US chief AI officer. Still, he said he isn’t seeing mass layoffs at most companies and whole categories of jobs aren’t currently at risk.
+
+Most companies haven’t yet adjusted its employee metrics and incentives to fit with how AI is changing work, Microsoft said in its report, which surveyed 20,000 workers using AI across 10 countries.
+
+Instead, many are simply grappling with which skills are needed from human workers.
+
+And the tech landscape may keep changing as AI models evolve and potentially take on more office tasks. For example, Anthropic on Tuesday announced new AI agents built for financial work, like building pitchbooks and crafting credit memos.
+
+“It starts at the bottom, and it keeps going up,” said Umesh Ramakrishnan, cofounder and chief strategy officer at executive search firm Kingsley Gate. “And I don’t know where it stops.”
+
+--------------------------------
+
+⏺ AI covers 57% of office tasks right now, but nobody's figured out how to hire three-quarters of a person. Here's what's actually shifting in tech jobs and which skills are holding.
+
+
+
+

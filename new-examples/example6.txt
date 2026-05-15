@@ -1,0 +1,25 @@
+Netflix has been sued in Texas over claims it collects data belonging to children and adults in the US state without their consent, and uses "addictive" design to keep them hooked.
+Texas Attorney General Ken Paxton accused the streaming giant of "spying" on citizens saying it "records and monetises billions" of pieces of information about how users behave on the platform, despite suggesting otherwise.
+"Every interaction on the platform became a data point revealing information about the user," his office said.
+Netflix has rejected the claims and says it will challenge them in court.
+"Respectfully to the great state of Texas and Attorney General Paxton, this lawsuit lacks merit and is based on inaccurate and distorted information," a Netflix spokesperson told the BBC.
+"Netflix takes our members' privacy seriously and complies with privacy and data protection laws everywhere we operate."
+"When you watch Netflix, Netflix watches you," says the complaint filed on Monday by Texas' top prosecutor.
+According to the filing, the streaming company championed itself as unlike other big tech firms in how it processed data and advertised to users.
+It quotes the company's former boss Reed Hastings as having said in 2019 and 2020 that it did not and would not collect or monetise user data, such as to sell ads.
+But the filing says Netflix used a combination of "addictive" design features, like auto-playing content, and extensive "logging" of user activity to keep people on the site.
+Among billions of technical events it recorded were what users would click and linger on, and for how long, the filing adds.
+In 2022, it says, the company also began "leveraging the mountains of data it quietly extracted from the children and families it kept fixated on their screen" - sharing this with commercial data brokers to help raise billions of dollars in revenue.
+"In short, Netflix sold subscriptions to its programming as an escape from Big Tech surveillance: pay monthly, avoid tracking," the lawsuit states.
+"Texans trusted that bargain. Netflix broke it - constructing the very data-collection system subscribers paid to escape."
+Design scrutiny
+Attorney General Paxton's office said it believed the company had violated the state's laws, namely the Texas Deceptive Trade Practices Act which forbids "false, deceptive, or misleading acts and practices in the course of trade and commerce".
+The attorney general can pursue action including penalties against those found to have engaged in such activity.
+In this case, it wants the court to order Netflix to delete any data "deceptively collected from Texans", cease processing their data for targeted advertising and to turn auto-play off by default for children's profiles.
+It comes as platforms face calls to disable features like auto-play and infinite scroll, over concerns they keep users unhealthily hooked on endless streams of content.
+Experts have said the recent success of a California lawsuit arguing Meta and YouTube could be held liable for the addictive design of their platforms could open the door to a slew of similar complaints.
+
+-----------------------------------
+
+Netflix sold itself as the streaming service that doesn't track you like Big Tech does, then quietly built the same surveillance system and sold your data to brokers anyway. Texas just sued them, and the
+  details are worth reading.
