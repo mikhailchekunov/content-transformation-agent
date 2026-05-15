@@ -22,3 +22,6 @@ Experts have said the recent success of a California lawsuit arguing Meta and Yo
 
 Netflix sold itself as the streaming service that doesn't track you like Big Tech does, then quietly built the same surveillance system and sold your data to brokers anyway. Texas just sued them, and the
   details are worth reading.
+
+
+Netflix spent years marketing itself as the paid escape from Big Tech surveillance, then Texas prosecutors just dropped a lawsuit showing it logged every click, every pause, every scroll and sold it all to data brokers the whole time.

@@ -22,3 +22,12 @@ A Waymo robotaxi drove itself into a flooded road and got swept into a creek, so
 
 A Waymo robotaxi drove itself into a flooded creek with no one inside because the software couldn't read the weather. Now 3,800 cars are being recalled. Here's what that tells us about where self-driving
   tech actually stands.
+
+---
+
+A Waymo robotaxi drove itself into a flooded creek in Texas with no one inside, and now 3,800 self-driving cars are being recalled. Read what this means for the future of robotaxis before they hit your
+  city.
+
+  ----
+
+  ⏺ A Waymo robotaxi with nobody inside just drove itself straight into a flooded creek, and now 3,800 of these cars are being recalled. Read this before they start rolling through your city.

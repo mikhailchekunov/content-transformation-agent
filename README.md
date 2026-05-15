@@ -72,6 +72,46 @@ Each section holds a maximum of 15 entries. When the 16th is added, the oldest i
 
 ---
 
+### `/create-fast-hook` — Lightweight
+
+A single-agent, no-pipeline alternative to `/create-hook`. Skips the validator and examples library — just one fast pass that produces a punchy one-sentence hook with a CTA.
+
+#### When to use
+
+Use this when you want a quick result without the multi-step validation loop. Good for rapid iteration or lower-stakes content where a single sharp pass is enough.
+
+#### Architecture
+
+The skill lives in `.claude/skills/create-fast-hook/` and is a single file:
+
+```
+SKILL.md    ← all logic: rules, examples, and execution in one place
+```
+
+#### How it works
+
+The model reads the source text, identifies the most interesting angle for the reader, and writes one sentence that:
+
+- Captures attention immediately
+- Sounds like a message from a real person, not a bot
+- Ends with a CTA so the reader knows why it matters to them
+
+Hard rules:
+- One sentence only
+- No em dash, en dash, or hyphen
+- No AI-sounding phrasing
+- Language matches the input — Russian news → Russian hook
+
+#### Usage
+
+```
+/create-fast-hook
+
+<paste raw news or any content here>
+```
+
+---
+
 ### `/transform_news` — Deprecated
 
 > **Deprecated.** Use `/create-hook` instead.
